@@ -1,2 +1,2 @@
 # Belajar-ML
-Daftar Source Code Belajar Projek Machine Learning 
+Projek kecil-kecilan dengan menggunakan beberapa model Supervised dan public dataset
